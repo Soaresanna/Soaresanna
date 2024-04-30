@@ -1,7 +1,12 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🤠❤️
+estou estudando na alura
 
-<!--
+meu nome é Anna Soares
+
+utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos na plataforma Alura 
+<!-- estou estudando na alura
 **Soaresanna/Soaresanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
